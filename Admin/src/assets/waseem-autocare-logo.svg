@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 620" width="1400" height="1240" role="img" aria-label="Waseem AutoCare logo">
+<g transform="translate(200 0) scale(1.5)">
+<circle cx="100" cy="100" r="85" fill="none" stroke="#173B57" stroke-width="16" stroke-dasharray="24 20.51" transform="rotate(-6.5 100 100)"/>
+<circle cx="100" cy="100" r="80" fill="#173B57"/>
+<circle cx="100" cy="100" r="68" fill="none" stroke="#F59E0B" stroke-opacity="0.6" stroke-width="1.5"/>
+<g transform="translate(100 100) rotate(45)">
+<rect x="-6" y="-36" width="12" height="72" rx="6" fill="#FFFFFF"/>
+<circle cx="0" cy="-46" r="15" fill="#FFFFFF"/>
+<rect x="-7" y="-64" width="14" height="22" fill="#173B57"/>
+<circle cx="0" cy="46" r="15" fill="#FFFFFF"/>
+<circle cx="0" cy="46" r="6" fill="#173B57"/>
+</g>
+<g transform="translate(100 100) rotate(-45)">
+<rect x="-6" y="-36" width="12" height="72" rx="6" fill="#F59E0B" stroke="#173B57" stroke-width="3"/>
+<circle cx="0" cy="-46" r="15" fill="#F59E0B" stroke="#173B57" stroke-width="3"/>
+<rect x="-7" y="-64" width="14" height="22" fill="#173B57"/>
+<circle cx="0" cy="46" r="15" fill="#F59E0B" stroke="#173B57" stroke-width="3"/>
+<circle cx="0" cy="46" r="6" fill="#173B57"/>
+</g>
+<polygon points="100,89 109.5,94.5 109.5,105.5 100,111 90.5,105.5 90.5,94.5" fill="#173B57" stroke="#F59E0B" stroke-width="2.5"/>
+</g>
+<text x="360" y="450" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="800" font-size="76" letter-spacing="15" fill="#173B57">WASEEM</text>
+<rect x="110" y="513" width="90" height="3" rx="1.5" fill="#F59E0B"/>
+<text x="360" y="523" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="600" font-size="24" letter-spacing="12" fill="#315A76">AUTOCARE</text>
+<rect x="500" y="513" width="90" height="3" rx="1.5" fill="#F59E0B"/>
+</svg>
